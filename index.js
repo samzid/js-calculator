@@ -92,4 +92,5 @@
                         var avg;
                         avg=num1 % num2;
                         document.write("avg= " + num1 + " % " + num2 + "=" + avg +"<br/>");
+                        
 
